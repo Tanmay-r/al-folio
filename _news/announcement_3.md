@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: <a href="https://www.wired.com/story/proxemo-robot-guesses-emotion-from-walking/"> [FastCompany] There’s a new AI that can guess how you feel just by watching you walk </a>
+date: July 15, 2019
+inline: false
 ---
-
-Coming Soon! :sparkles: :smile:
